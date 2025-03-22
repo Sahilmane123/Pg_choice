@@ -1,0 +1,43 @@
+/* Navbar Custom Styling */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1rem;
+    margin-right: 10px;
+}
+
+.dropdown-menu {
+    background-color: #222;
+}
+
+.dropdown-item {
+    color: white;
+}
+
+.dropdown-item:hover {
+    color: white;
+}
+
+.btn-warning {
+    border-radius: 8px;
+    font-weight: bold;
+}
+footer {
+    background: #222;
+    color: white;
+}
+
+.footer a {
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+
